@@ -1,5 +1,5 @@
 {
-    "name": "davetoews/redirections-bugfix",
+    "name": "davejtoews/redirections-bugfix",
     "description": "A fork of the Redirections Wordpress plugin that fixes an error in the import feature. Can delete when a patch is released.",
     "type": "wordpress-plugin",
     "authors": [
