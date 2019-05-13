@@ -216,11 +216,6 @@ class Import_Export implements Runner {
 				continue;
 			}
 
-			\App\Debug::log([
-				'sources' => $redirection['sources'],
-				'un' => unserialize($redirection['sources'])
-			]);
-
 			\RankMath_Redirections\Redirections\DB::add(
 				[
 					'url_to'      => $redirection['url_to'],
