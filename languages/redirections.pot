@@ -1,0 +1,1667 @@
+# Copyright (C) 2019 redirections
+# This file is distributed under the same license as the redirections package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Redirections by Rank Math\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Rank Math\n"
+"Last-Translator: MyThemeShop\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-admin-menu.php:47 includes/admin/class-admin.php:40
+#: includes/class-cmb2.php:154
+msgid "Rank Math"
+msgstr ""
+
+#: includes/admin/class-admin-menu.php:61
+#: includes/admin/views/help-manager.php:15
+msgid "Help &amp; Support"
+msgstr ""
+
+#: includes/admin/class-admin-menu.php:86
+msgid "Dashboard"
+msgstr ""
+
+#: includes/admin/class-admin.php:84
+msgid "Modules"
+msgstr ""
+
+#: includes/admin/class-admin.php:90
+msgid "Help"
+msgstr ""
+
+#: includes/admin/class-admin.php:96 includes/admin/class-import-export.php:44
+#: includes/admin/views/import-export/main.php:14
+msgid "Import &amp; Export"
+msgstr ""
+
+#: includes/admin/class-admin.php:119
+msgid "Activate Now"
+msgstr ""
+
+#: includes/admin/class-admin.php:123
+msgid "Install for Free"
+msgstr ""
+
+#: includes/admin/class-admin.php:141
+msgid "WordPress SEO Plugin – Rank Math"
+msgstr ""
+
+#: includes/admin/class-admin.php:142 redirections.php:205
+msgid "Rank Math SEO"
+msgstr ""
+
+#: includes/admin/class-admin.php:160
+msgid "Rank Math is a revolutionary SEO plugin that combines the features of many SEO tools in a single package & helps you multiply your traffic."
+msgstr ""
+
+#: includes/admin/class-admin.php:166
+msgid "Compatible"
+msgstr ""
+
+#: includes/admin/class-admin.php:166
+msgid "with your version of WordPress"
+msgstr ""
+
+#. translators: plugin url
+#: includes/admin/class-assets.php:94
+#, php-format
+msgid "Thank you for using <a href=\"%s\" target=\"_blank\">Rank Math</a>"
+msgstr ""
+
+#: includes/admin/class-cmb2-fields.php:58
+msgid "Off"
+msgstr ""
+
+#: includes/admin/class-cmb2-fields.php:59
+msgid "On"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:95
+msgid "Quick Feedback"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:99
+msgid "If you have a moment, please share why you are deactivating Rank Math:"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:124
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:126
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:146
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:150
+msgid "I found a better plugin"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:151
+msgid "Please share which plugin"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:154
+msgid "I couldn't get the plugin to work"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:158
+msgid "It's a temporary deactivation"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:162
+msgid "Other"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:163
+msgid "Please share the reason"
+msgstr ""
+
+#: includes/admin/class-import-export.php:60
+msgid "Are you sure you want to import redirections into Redirections?"
+msgstr ""
+
+#: includes/admin/class-import-export.php:89
+msgid "Action not allowed."
+msgstr ""
+
+#. translators: Plugin name
+#: includes/admin/class-import-export.php:112
+#, php-format
+msgid "Cleanup of %s data successfully done."
+msgstr ""
+
+#. translators: Plugin name
+#: includes/admin/class-import-export.php:116
+#, php-format
+msgid "Cleanup of %s data failed."
+msgstr ""
+
+#: includes/admin/class-import-export.php:145
+#: includes/admin/class-import-export.php:150
+#: includes/admin/class-import-export.php:155
+msgid "Settings could not be imported:"
+msgstr ""
+
+#: includes/admin/class-import-export.php:155
+msgid "Upload failed."
+msgstr ""
+
+#: includes/admin/class-import-export.php:167
+msgid "Settings successfully imported."
+msgstr ""
+
+#: includes/admin/class-import-export.php:171
+msgid "No settings found to be imported."
+msgstr ""
+
+#: includes/admin/class-option-center.php:41
+#: includes/admin/class-option-center.php:70
+#: includes/admin/views/help/help.php:9
+#: includes/admin/views/import-export/export-panel.php:21
+#: includes/class-module-manager.php:70
+#: includes/modules/redirections/class-admin.php:45
+#: includes/modules/redirections/class-admin.php:90
+#: includes/modules/redirections/class-admin.php:145
+#: includes/modules/redirections/class-redirections.php:57
+#: includes/modules/redirections/class-redirections.php:85
+#: includes/modules/redirections/views/help.php:9
+msgid "Redirections"
+msgstr ""
+
+#. translators: 1. Link to kb article 2. Link to redirection setting scree
+#. translators: Link to kb article
+#: includes/admin/class-option-center.php:43
+#: includes/admin/class-option-center.php:57
+#: includes/modules/redirections/class-admin.php:147
+#, php-format
+msgid "Enable Redirections to set up custom 301, 302, 307, 410, or 451 redirections. %s."
+msgstr ""
+
+#: includes/admin/class-option-center.php:43
+#: includes/admin/class-option-center.php:57
+#: includes/modules/redirections/class-admin.php:147
+msgid "Learn more"
+msgstr ""
+
+#: includes/admin/class-option-center.php:71
+#: includes/admin/views/import-export/export-panel.php:20
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/class-options.php:136
+msgid "Panel"
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:126
+#: includes/admin/importers/class-redirections.php:108
+msgid "Import Redirections"
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:126
+msgid "Import all the redirections you have already set up in Yoast."
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:193
+msgid "Unable to perform action this time."
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:204
+msgid "Plugin deactivated successfully."
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:205
+#, php-format
+msgid "Imported %s redirections."
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:209
+msgid "There are no redirection to import."
+msgstr ""
+
+#: includes/admin/importers/class-redirections.php:108
+msgid "Plugin redirections."
+msgstr ""
+
+#: includes/admin/views/dashboard.php:20
+msgid "Welcome to Rank Math!"
+msgstr ""
+
+#: includes/admin/views/dashboard.php:23
+msgid "The most complete WordPress SEO plugin to convert your website into a traffic generating machine."
+msgstr ""
+
+#: includes/admin/views/help/help.php:11
+#: includes/modules/redirections/views/help.php:11
+msgid "An HTTP redirection is a magical thing. When you visit a URL with a redirection, your browser automatically jumps to a new address."
+msgstr ""
+
+#: includes/admin/views/help/help.php:13
+#: includes/modules/redirections/views/help.php:13
+msgid "You’ve seen this before with URL shortener services like bit.ly – instead of typing a long address, you type a short one. Your browser is automatically redirected to a different site, and it happens faster than you can blink."
+msgstr ""
+
+#: includes/admin/views/help/help.php:15
+#: includes/modules/redirections/views/help.php:15
+msgid "HTTP redirections are powerful tools in SEO, and they have lots of other uses, too. You can read about why that’s a good idea in this article."
+msgstr ""
+
+#: includes/admin/views/help/help.php:17
+#: includes/modules/redirections/views/help.php:17
+msgid "Rank Math makes it easy to set up HTTP redirects – in this article, we show you how."
+msgstr ""
+
+#: includes/admin/views/help/help.php:19
+#: includes/modules/redirections/views/help.php:19
+msgid "Click here to read full Redirection tutorial"
+msgstr ""
+
+#: includes/admin/views/import-export/export-panel.php:12
+msgid "Export Settings"
+msgstr ""
+
+#: includes/admin/views/import-export/export-panel.php:17
+msgid "Panels"
+msgstr ""
+
+#: includes/admin/views/import-export/export-panel.php:23
+msgid "Choose the panels to export."
+msgstr ""
+
+#: includes/admin/views/import-export/export-panel.php:31
+msgid "Export"
+msgstr ""
+
+#: includes/admin/views/import-export/import-panel.php:12
+msgid "Import Settings"
+msgstr ""
+
+#: includes/admin/views/import-export/import-panel.php:18
+msgid "Setting File"
+msgstr ""
+
+#: includes/admin/views/import-export/import-panel.php:23
+msgid "Please select a file to import."
+msgstr ""
+
+#: includes/admin/views/import-export/import-panel.php:24
+msgid "Import settings by locating setting file and clicking \"Import settings\"."
+msgstr ""
+
+#: includes/admin/views/import-export/import-panel.php:33
+#: includes/admin/views/import-export/plugins-panel.php:31
+msgid "Import"
+msgstr ""
+
+#. translators: Link to learn about import export panel KB article
+#: includes/admin/views/import-export/main.php:19
+#, php-format
+msgid "Import your previous backed up setting. Or, Export your Rank Math settings and meta data for backup or for reuse on (another) blog. %s"
+msgstr ""
+
+#: includes/admin/views/import-export/main.php:19
+msgid "Learn more about the Import/Export option."
+msgstr ""
+
+#: includes/admin/views/import-export/plugins-panel.php:16
+msgid "Plugin Importers"
+msgstr ""
+
+#: includes/admin/views/import-export/plugins-panel.php:21
+msgid "No plugin detected with importable data."
+msgstr ""
+
+#: includes/admin/views/import-export/plugins-panel.php:32
+msgid "Clean"
+msgstr ""
+
+#: includes/admin/views/plugin-updates.php:20
+msgid "Plugin Updates"
+msgstr ""
+
+#: includes/admin/views/plugin-updates.php:22
+msgid "Update Available"
+msgstr ""
+
+#: includes/admin/views/plugin-updates.php:22
+msgid "Plugin up to date"
+msgstr ""
+
+#: includes/admin/views/plugin-updates.php:28
+msgid "Installed Version"
+msgstr ""
+
+#: includes/admin/views/plugin-updates.php:30
+msgid "Latest Available Version"
+msgstr ""
+
+#: includes/admin/views/plugin-updates.php:32
+msgid "Check for Updates"
+msgstr ""
+
+#. translators: deactivation link
+#: includes/admin/watcher/class-watcher.php:100
+#, php-format
+msgid "Please keep only one Redirection plugin active, otherwise, you might lose your rankings and traffic. %s."
+msgstr ""
+
+#: includes/class-helper.php:36
+msgid "Exact"
+msgstr ""
+
+#: includes/class-helper.php:37
+msgid "Contains"
+msgstr ""
+
+#: includes/class-helper.php:38
+msgid "Starts With"
+msgstr ""
+
+#: includes/class-helper.php:39
+msgid "End With"
+msgstr ""
+
+#: includes/class-helper.php:40
+msgid "Regex"
+msgstr ""
+
+#: includes/class-helper.php:122
+msgid "301 Permanent Move"
+msgstr ""
+
+#: includes/class-helper.php:123
+msgid "302 Temporary Move"
+msgstr ""
+
+#: includes/class-helper.php:124
+msgid "307 Temporary Redirect"
+msgstr ""
+
+#: includes/class-helper.php:125
+msgid "410 Content Deleted"
+msgstr ""
+
+#: includes/class-helper.php:126
+msgid "451 Content Unavailable for Legal Reasons"
+msgstr ""
+
+#: includes/class-module-manager.php:71
+msgid "Redirect non-existent content easily with 301 and 302 status code. This can help reduce errors and improve your site ranking."
+msgstr ""
+
+#: includes/class-module-manager.php:79
+msgid "404 Monitor"
+msgstr ""
+
+#: includes/class-module-manager.php:80
+msgid "Records the URLs on which visitors & search engines run into 404 Errors. You can also turn on Redirections to redirect the error causing URLs to other URLs."
+msgstr ""
+
+#: includes/class-module-manager.php:86
+msgid "Local SEO & Google Knowledge Graph"
+msgstr ""
+
+#: includes/class-module-manager.php:87
+msgid "Dominate the search results for local audience by optimizing your website and posts using this Rank Math module."
+msgstr ""
+
+#: includes/class-module-manager.php:93
+msgid "Rich Snippets"
+msgstr ""
+
+#: includes/class-module-manager.php:94
+msgid "Enable support for the Rich Snippets, which adds metadata to your website, resulting in rich search results and more traffic."
+msgstr ""
+
+#: includes/class-module-manager.php:100
+msgid "Role Manager"
+msgstr ""
+
+#: includes/class-module-manager.php:101
+msgid "The Role Manager allows you to use internal WordPress' roles to control which of your site admins can change Rank Math's settings"
+msgstr ""
+
+#: includes/class-module-manager.php:107
+msgid "Search Console"
+msgstr ""
+
+#: includes/class-module-manager.php:108
+msgid "Connect Rank Math with Google Search Console to see the most important information from Google directly in your WordPress dashboard."
+msgstr ""
+
+#: includes/class-module-manager.php:114
+msgid "SEO Analysis"
+msgstr ""
+
+#: includes/class-module-manager.php:115
+msgid "Let Rank Math analyze your website and your website's content using 70+ different tests to provide tailor-made SEO Analysis to you."
+msgstr ""
+
+#: includes/class-module-manager.php:121
+msgid "Sitemap"
+msgstr ""
+
+#: includes/class-module-manager.php:122
+msgid "Enable Rank Math's sitemap feature, which helps search engines index your website's content effectively."
+msgstr ""
+
+#: includes/class-module-manager.php:128
+msgid "AMP"
+msgstr ""
+
+#: includes/class-module-manager.php:129
+msgid "Install AMP plugin from WordPress.org to make Rank Math work with Accelerated Mobile Pages. It is required because AMP are different than WordPress pages and our plugin doesn't work with them out-of-the-box."
+msgstr ""
+
+#: includes/class-module-manager.php:135
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/class-module-manager.php:136
+msgid "WooCommerce module to use Rank Math to optimize WooCommerce Product Pages."
+msgstr ""
+
+#: includes/class-module-manager.php:142
+msgid "Link Counter"
+msgstr ""
+
+#: includes/class-module-manager.php:143
+msgid "Counts the total number of internal, external links, to and from links inside your posts."
+msgstr ""
+
+#: includes/class-module-manager.php:194
+#: includes/modules/redirections/views/main.php:23 redirections.php:302
+msgid "Settings"
+msgstr ""
+
+#: includes/class-module-manager.php:200
+msgid "Toggle"
+msgstr ""
+
+#: includes/class-module-manager.php:203
+msgid "Status:"
+msgstr ""
+
+#: includes/class-module-manager.php:205
+#: includes/modules/redirections/class-table.php:244
+msgid "Active"
+msgstr ""
+
+#: includes/class-module-manager.php:207
+#: includes/modules/redirections/class-table.php:245
+msgid "Inactive"
+msgstr ""
+
+#: includes/class-module.php:71
+msgid "Items per page"
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:67
+msgid "Maintenance Code"
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:68
+msgid "This field must not be empty."
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:97
+msgid "Overview"
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:101
+msgid "Screen Content"
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:105
+msgid "Available Actions"
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:109
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:164
+msgid "Redirections Stats"
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:166
+msgid "Redirections Count"
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:167
+msgid "Redirections Hits"
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:203
+#: includes/modules/redirections/class-admin.php:231
+msgid "No valid action found."
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:223
+msgid "No valid id found."
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:251
+msgid "Redirection successfully activated."
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:252
+msgid "Redirection successfully deactivated."
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:253
+msgid "Redirection successfully moved to Trash."
+msgstr ""
+
+#: includes/modules/redirections/class-admin.php:254
+msgid "Redirection successfully restored."
+msgstr ""
+
+#. translators: delete counter
+#: includes/modules/redirections/class-admin.php:266
+#, php-format
+msgid "%d redirection(s) successfully deleted."
+msgstr ""
+
+#: includes/modules/redirections/class-db.php:397
+msgid "a,about,above,after,again,against,all,am,an,and,any,are,as,at,be,because,been,before,being,below,between,both,but,by,could,did,do,does,doing,down,during,each,few,for,from,further,had,has,have,having,he,he'd,he'll,he's,her,here,here's,hers,herself,him,himself,his,how,how's,i,i'd,i'll,i'm,i've,if,in,into,is,it,it's,its,itself,let's,me,more,most,my,myself,nor,of,on,once,only,or,other,ought,our,ours,ourselves,out,over,own,same,she,she'd,she'll,she's,should,so,some,such,than,that,that's,the,their,theirs,them,themselves,then,there,there's,these,they,they'd,they'll,they're,they've,this,those,through,to,too,under,until,up,very,was,we,we'd,we'll,we're,we've,were,what,what's,when,when's,where,where's,which,while,who,who's,whom,why,why's,with,would,you,you'd,you'll,you're,you've,your,yours,yourself,yourselves"
+msgstr ""
+
+#: includes/modules/redirections/class-form.php:45
+msgid "Update"
+msgstr ""
+
+#: includes/modules/redirections/class-form.php:45
+msgid "Add"
+msgstr ""
+
+#: includes/modules/redirections/class-form.php:55
+msgid "Cancel"
+msgstr ""
+
+#: includes/modules/redirections/class-form.php:56
+msgid "Update Redirection"
+msgstr ""
+
+#: includes/modules/redirections/class-form.php:56
+msgid "Add Redirection"
+msgstr ""
+
+#: includes/modules/redirections/class-form.php:79
+msgid "Source URLs"
+msgstr ""
+
+#: includes/modules/redirections/class-form.php:81
+msgid "Add another"
+msgstr ""
+
+#: includes/modules/redirections/class-form.php:82
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:229
+#: vendor/cmb2/cmb2/includes/CMB2_Types.php:406
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:84
+msgid "Remove"
+msgstr ""
+
+#: includes/modules/redirections/class-form.php:103
+msgid "Destination URL"
+msgstr ""
+
+#: includes/modules/redirections/class-form.php:109
+#: includes/modules/redirections/views/options.php:42
+#: includes/settings/general/redirections.php:44
+msgid "Redirection Type"
+msgstr ""
+
+#: includes/modules/redirections/class-form.php:117
+msgid "Status"
+msgstr ""
+
+#: includes/modules/redirections/class-form.php:119
+#: includes/modules/redirections/class-table.php:174
+#: includes/modules/redirections/class-table.php:226
+msgid "Activate"
+msgstr ""
+
+#: includes/modules/redirections/class-form.php:120
+#: includes/modules/redirections/class-table.php:173
+#: includes/modules/redirections/class-table.php:227
+msgid "Deactivate"
+msgstr ""
+
+#: includes/modules/redirections/class-form.php:195
+msgid "Please add at least one valid source URL."
+msgstr ""
+
+#. translators: source pattern
+#: includes/modules/redirections/class-redirection.php:342
+#, php-format
+msgid "Invalid regex pattern: %s"
+msgstr ""
+
+#: includes/modules/redirections/class-redirections.php:88
+#: includes/modules/redirections/class-redirections.php:97
+msgid "Create and edit redirections"
+msgstr ""
+
+#: includes/modules/redirections/class-redirections.php:94
+msgid "Manage Redirections"
+msgstr ""
+
+#: includes/modules/redirections/class-redirections.php:103
+#: includes/modules/redirections/class-redirections.php:106
+msgid "Redirection Settings"
+msgstr ""
+
+#: includes/modules/redirections/class-redirections.php:113
+msgid "&raquo; Redirect this page"
+msgstr ""
+
+#: includes/modules/redirections/class-redirections.php:116
+msgid "Redirect the current URL"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:27
+msgid "redirection"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:28
+msgid "redirections"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:29
+msgid "No redirections found in Trash."
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:29
+msgid "No redirections added yet. <a href=\"#\" class=\"rank-math-add-new-redirection\">Add New Redirection</a>"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:117
+msgid "Show more"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:127
+msgid "Hide details"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:127
+msgid "Hide"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:166
+#: includes/modules/redirections/class-table.php:220
+msgid "Restore"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:167
+#: includes/modules/redirections/class-table.php:221
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:172
+msgid "Edit"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:175
+#: includes/modules/redirections/class-table.php:246
+msgid "Trash"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:187
+msgid "From"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:188
+msgid "To"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:189
+msgid "Type"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:190
+msgid "Hits"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:191
+msgid "Last Accessed"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:228
+msgid "Move to Trash"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:243
+msgid "All"
+msgstr ""
+
+#: includes/modules/redirections/class-table.php:293
+msgid "Empty Trash"
+msgstr ""
+
+#. translators: %1$s: post type label, %2$s: edit redirection URL.
+#: includes/modules/redirections/class-watcher.php:88
+#, php-format
+msgid "SEO Notice: you just changed the slug of a %1$s and Rank Math has automatically created a redirection. You can edit the redirection by <a href=\"%2$s\">clicking here</a>."
+msgstr ""
+
+#. translators: 1. url to new screen, 2. old trashed post permalink
+#: includes/modules/redirections/class-watcher.php:232
+#, php-format
+msgid "<strong>SEO Notice:</strong> A previously published post has been moved to trash. You may redirect it <code>%2$s</code> to <a href=\"%1$s\">new url</a>."
+msgstr ""
+
+#: includes/modules/redirections/views/debugging.php:73
+msgid "Redirection Debugger"
+msgstr ""
+
+#: includes/modules/redirections/views/debugging.php:75
+msgid "Redirecting from "
+msgstr ""
+
+#: includes/modules/redirections/views/debugging.php:76
+msgid " To "
+msgstr ""
+
+#. translators: countdown seconds
+#: includes/modules/redirections/views/debugging.php:84
+#, php-format
+msgid "Redirecting in %s seconds..."
+msgstr ""
+
+#: includes/modules/redirections/views/debugging.php:85
+msgid "Stop Redirection"
+msgstr ""
+
+#: includes/modules/redirections/views/debugging.php:88
+msgid "Continue redirecting"
+msgstr ""
+
+#: includes/modules/redirections/views/debugging.php:94
+msgid "Manage This Redirection"
+msgstr ""
+
+#: includes/modules/redirections/views/debugging.php:96
+msgid "Manage All Redirections"
+msgstr ""
+
+#: includes/modules/redirections/views/debugging.php:100
+msgid "<strong>Note:</strong> This interstitial page is displayed only to administrators. Site visitors are redirected without delay."
+msgstr ""
+
+#: includes/modules/redirections/views/help-tab-actions.php:11
+msgid "Hovering over a row in the list will display action links that allow you to manage the item. You can perform the following actions:"
+msgstr ""
+
+#: includes/modules/redirections/views/help-tab-actions.php:14
+msgid "<strong>Edit</strong> redirection details: from/to URLs and the redirection type."
+msgstr ""
+
+#: includes/modules/redirections/views/help-tab-actions.php:15
+msgid "<strong>Activate/Deactivate</strong> redirections. Deactivated redirections do not take effect on your site."
+msgstr ""
+
+#: includes/modules/redirections/views/help-tab-actions.php:16
+msgid "<strong>Delete</strong> permanently removes the redirection."
+msgstr ""
+
+#: includes/modules/redirections/views/help-tab-bulk.php:11
+msgid "You can also activate, deactivate, or delete multiple items at once using the Bulk Actions dropdown."
+msgstr ""
+
+#: includes/modules/redirections/views/help-tab-overview.php:11
+msgid "Here you can set up custom redirections. It is important to choose the right type of redirection."
+msgstr ""
+
+#: includes/modules/redirections/views/help-tab-overview.php:14
+msgid "301 redirections are <em>permananent</em>. The old URL will be removed in search engines and replaced by the new one, passing on SearchRank and other SEO scores. Browsers may also store the new URL in cache and redirect to it even after the redirection is deleted from the list here."
+msgstr ""
+
+#: includes/modules/redirections/views/help-tab-overview.php:15
+msgid "Using a 302 <em>temporary</em> redirection is useful when you want to test a new page for client feedback temporarily without affecting the SEO scores of the original page."
+msgstr ""
+
+#: includes/modules/redirections/views/help-tab-overview.php:16
+msgid "Redirections can be exported to your .htaccess file for faster redirections, in SEO > Settings > Import/Export."
+msgstr ""
+
+#: includes/modules/redirections/views/help-tab-screen-content.php:11
+msgid "You can customize the display of this screen's contents in a number of ways:"
+msgstr ""
+
+#: includes/modules/redirections/views/help-tab-screen-content.php:14
+msgid "You can hide/display columns based on your needs."
+msgstr ""
+
+#: includes/modules/redirections/views/help-tab-screen-content.php:15
+msgid "You can decide how many items to list per screen using the Screen Options tab."
+msgstr ""
+
+#: includes/modules/redirections/views/help-tab-screen-content.php:16
+msgid "You can search items using the search form at the top."
+msgstr ""
+
+#: includes/modules/redirections/views/help-tab-screen-content.php:17
+msgid "You can reorder the list by clicking on the column headings. "
+msgstr ""
+
+#: includes/modules/redirections/views/main.php:19
+msgid "Add New"
+msgstr ""
+
+#: includes/modules/redirections/views/main.php:20
+msgid "Export to .htaccess"
+msgstr ""
+
+#: includes/modules/redirections/views/main.php:21
+msgid "Export to Nginx config file"
+msgstr ""
+
+#: includes/modules/redirections/views/main.php:22
+msgid "Learn More"
+msgstr ""
+
+#: includes/modules/redirections/views/main.php:38
+msgid "Search"
+msgstr ""
+
+#: includes/modules/redirections/views/options.php:14
+#: includes/settings/general/redirections.php:16
+msgid "Debug Redirections"
+msgstr ""
+
+#: includes/modules/redirections/views/options.php:15
+#: includes/settings/general/redirections.php:17
+msgid "Display the Debug Console instead of being redirected. Administrators only."
+msgstr ""
+
+#: includes/modules/redirections/views/options.php:22
+#: includes/settings/general/redirections.php:24
+msgid "Fallback Behavior"
+msgstr ""
+
+#: includes/modules/redirections/views/options.php:23
+#: includes/settings/general/redirections.php:25
+msgid "If nothing similar is found, this behavior will be applied."
+msgstr ""
+
+#: includes/modules/redirections/views/options.php:25
+#: includes/settings/general/redirections.php:27
+msgid "Default 404"
+msgstr ""
+
+#: includes/modules/redirections/views/options.php:26
+#: includes/settings/general/redirections.php:28
+msgid "Redirect to Homepage"
+msgstr ""
+
+#: includes/modules/redirections/views/options.php:27
+#: includes/settings/general/redirections.php:29
+msgid "Custom Redirection"
+msgstr ""
+
+#: includes/modules/redirections/views/options.php:35
+#: includes/settings/general/redirections.php:37
+msgid "Custom Url "
+msgstr ""
+
+#: includes/modules/redirections/views/options.php:50
+#: includes/settings/general/redirections.php:52
+msgid "Auto Post Redirect"
+msgstr ""
+
+#: includes/modules/redirections/views/options.php:51
+#: includes/settings/general/redirections.php:53
+msgid "Extend the functionality of WordPress by creating redirects in our plugin when you change the slug of a post, page, category or a CPT. You can modify the redirection further according to your needs."
+msgstr ""
+
+#: includes/traits/class-ajax.php:53
+msgid "Error: Nonce verification failed"
+msgstr ""
+
+#. translators: WordPress Version
+#: redirections.php:193
+#, php-format
+msgid "Rank Math requires WordPress version %s or above. Please update WordPress to run this plugin."
+msgstr ""
+
+#. translators: PHP Version
+#: redirections.php:199
+#, php-format
+msgid "Rank Math requires PHP version %s or above. Please update PHP to run this plugin."
+msgstr ""
+
+#: redirections.php:205
+#, php-format
+msgid "%s plugin is active. You don't need Redirections plugin separately."
+msgstr ""
+
+#: redirections.php:322
+msgid "Getting Started"
+msgstr ""
+
+#: redirections.php:323
+msgid "Documentation"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:117
+msgid "Test Metabox"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:150
+#: vendor/cmb2/cmb2/example-functions.php:490
+msgid "Test Text"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:151
+#: vendor/cmb2/cmb2/example-functions.php:164
+#: vendor/cmb2/cmb2/example-functions.php:177
+#: vendor/cmb2/cmb2/example-functions.php:184
+#: vendor/cmb2/cmb2/example-functions.php:197
+#: vendor/cmb2/cmb2/example-functions.php:205
+#: vendor/cmb2/cmb2/example-functions.php:214
+#: vendor/cmb2/cmb2/example-functions.php:222
+#: vendor/cmb2/cmb2/example-functions.php:237
+#: vendor/cmb2/cmb2/example-functions.php:245
+#: vendor/cmb2/cmb2/example-functions.php:253
+#: vendor/cmb2/cmb2/example-functions.php:270
+#: vendor/cmb2/cmb2/example-functions.php:279
+#: vendor/cmb2/cmb2/example-functions.php:295
+#: vendor/cmb2/cmb2/example-functions.php:302
+#: vendor/cmb2/cmb2/example-functions.php:309
+#: vendor/cmb2/cmb2/example-functions.php:334
+#: vendor/cmb2/cmb2/example-functions.php:347
+#: vendor/cmb2/cmb2/example-functions.php:360
+#: vendor/cmb2/cmb2/example-functions.php:372
+#: vendor/cmb2/cmb2/example-functions.php:381
+#: vendor/cmb2/cmb2/example-functions.php:389
+#: vendor/cmb2/cmb2/example-functions.php:398
+#: vendor/cmb2/cmb2/example-functions.php:405
+#: vendor/cmb2/cmb2/example-functions.php:419
+#: vendor/cmb2/cmb2/example-functions.php:491
+#: vendor/cmb2/cmb2/example-functions.php:583
+#: vendor/cmb2/cmb2/example-functions.php:591
+#: vendor/cmb2/cmb2/example-functions.php:598
+#: vendor/cmb2/cmb2/example-functions.php:605
+#: vendor/cmb2/cmb2/example-functions.php:612
+#: vendor/cmb2/cmb2/example-functions.php:619
+#: vendor/cmb2/cmb2/example-functions.php:626
+#: vendor/cmb2/cmb2/example-functions.php:653
+#: vendor/cmb2/cmb2/example-functions.php:661
+#: vendor/cmb2/cmb2/example-functions.php:668
+#: vendor/cmb2/cmb2/example-functions.php:717
+msgid "field description (optional)"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:163
+msgid "Test Text Small"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:176
+msgid "Test Text Medium"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:183
+msgid "Read-only Disabled Field"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:187
+msgid "Hey there, I'm a read-only field"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:196
+msgid "Custom Rendered Field"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:204
+msgid "Website URL"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:213
+msgid "Test Text Email"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:221
+msgid "Test Time"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:229
+#: vendor/cmb2/cmb2/example-functions.php:230
+msgid "Time zone"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:236
+msgid "Test Date Picker"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:244
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:252
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:269
+msgid "Test Money"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:278
+msgid "Test Color Picker"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:294
+msgid "Test Text Area"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:301
+msgid "Test Text Area Small"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:308
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:326
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:327
+msgid "This is a title description"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:333
+msgid "Test Select"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:339
+#: vendor/cmb2/cmb2/example-functions.php:352
+#: vendor/cmb2/cmb2/example-functions.php:364
+msgid "Option One"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:340
+#: vendor/cmb2/cmb2/example-functions.php:353
+#: vendor/cmb2/cmb2/example-functions.php:365
+msgid "Option Two"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:341
+#: vendor/cmb2/cmb2/example-functions.php:354
+#: vendor/cmb2/cmb2/example-functions.php:366
+msgid "Option Three"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:346
+msgid "Test Radio inline"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:359
+msgid "Test Radio"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:371
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:380
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:388
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:397
+msgid "Test Checkbox"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:404
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:410
+msgid "Check One"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:411
+msgid "Check Two"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:412
+msgid "Check Three"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:418
+msgid "Test wysiwyg"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:428
+msgid "Test Image"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:429
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:435
+msgid "Multiple Files"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:436
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:443
+msgid "oEmbed"
+msgstr ""
+
+#. translators: %s: link to codex.wordpress.org/Embeds
+#: vendor/cmb2/cmb2/example-functions.php:446
+#, php-format
+msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:479
+msgid "About Page Metabox"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:510
+msgid "Repeating Field Group"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:518
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:520
+msgid "Entry {#}"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:521
+msgid "Add Another Entry"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:522
+msgid "Remove Entry"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:536
+msgid "Entry Title"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:543
+msgid "Description"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:544
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:550
+msgid "Entry Image"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:556
+msgid "Image Caption"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:575
+msgid "User Profile Metabox"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:582
+#: vendor/cmb2/cmb2/example-functions.php:652
+msgid "Extra Info"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:590
+msgid "Avatar"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:597
+msgid "Facebook URL"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:604
+msgid "Twitter URL"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:611
+msgid "Google+ URL"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:618
+msgid "Linkedin URL"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:625
+msgid "User Field"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:645
+msgid "Category Metabox"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:660
+msgid "Term Image"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:667
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:686
+msgid "Theme Options"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:716
+msgid "Site Background Color"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:753
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:787
+msgid "REST Test Box"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:796
+msgid "REST Test Text"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:797
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:803
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:804
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2.php:199
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2.php:603
+msgid "Click to toggle"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+#: vendor/cmb2/cmb2/includes/CMB2_Ajax.php:189
+#: vendor/cmb2/cmb2/includes/helper-functions.php:107
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Base.php:422
+#, php-format
+msgid "The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Base.php:426
+#, php-format
+msgid "Using the \"%1$s\" field parameter as a callback has been deprecated in favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Base.php:456
+#, php-format
+msgid "%1$s was called with a parameter that is <strong>deprecated</strong> since version %2$s! %3$s"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Base.php:458
+#, php-format
+msgid "%1$s was called with a parameter that is <strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Base.php:491
+#: vendor/cmb2/cmb2/includes/CMB2_Hookup_Base.php:102
+#: vendor/cmb2/cmb2/includes/CMB2_Options.php:247
+#: vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:357
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_Base.php:173
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Base.php:509
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_Base.php:157
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Field.php:1415
+msgid "Add Group"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Field.php:1416
+msgid "Remove Group"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Field.php:1448
+#: vendor/cmb2/cmb2/includes/CMB2_Field.php:1452
+msgid "None"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Field.php:1563
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Field_Display.php:432
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:230
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:79
+msgid "File:"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Hookup_Base.php:44
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:165
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:210
+msgid "Clear"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:166
+msgid "Default"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:167
+msgid "Select Color"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:168
+msgid "Current Color"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:200
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:201
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:202
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:203
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:204
+msgid "January, February, March, April, May, June, July, August, September, October, November, December"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:205
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:206
+msgid "Next"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:207
+msgid "Prev"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:208
+msgid "Today"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:209
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:219
+msgid "Done"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:213
+msgid "Choose Time"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:214
+msgid "Time"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:215
+msgid "Hour"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:216
+msgid "Minute"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:217
+msgid "Second"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:218
+msgid "Now"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:220
+msgctxt "Valid formatting string, as per http://trentrichardson.com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:226
+msgid "Use this file"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:227
+msgid "Use these files"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:228
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:64
+msgid "Remove Image"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:231
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:82
+msgid "Download"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:232
+msgid "Select / Deselect All"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:139
+msgid "Nothing to update."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:143
+msgid "Settings updated."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Types.php:226
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Types.php:344
+msgid "Add Row"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Types.php:406
+msgid "Remove Row"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_hookup.php:182
+msgid "Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress install."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_hookup.php:186
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_hookup.php:466
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/helper-functions.php:307
+msgid "Save"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid "No box found by that id. A box needs to be registered with the \"show_in_rest\" parameter configured."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid "Includes the fully rendered attributes, 'form_open', 'form_close', as well as the enqueued 'js_dependencies' script handles, and 'css_dependencies' stylesheet handles."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid "Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid "When the '_rendered' argument is passed, the renderable field attributes will be returned fully rendered. By default, the names of the callback handers for the renderable attributes will be returned."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid "To view or modify the field's value, the 'object_id' and 'object_type' arguments are required."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid "CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid "CMB2 Field value cannot be modified without the object_id and object_type parameters specified."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#. translators: %s: register_routes()
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:35
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:47
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:59
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:71
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:83
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:95
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:107
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:119
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:131
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:143
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:155
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:308
+msgid "Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+msgid "No terms"
+msgstr ""
+
+#: vendor/mythemeshop/wordpress-helpers/src/admin/class-list-table.php:33
+msgid "No items found."
+msgstr ""
+
+#: vendor/mythemeshop/wordpress-helpers/src/admin/class-page.php:120
+msgid "$id variable required"
+msgstr ""
+
+#: vendor/mythemeshop/wordpress-helpers/src/admin/class-page.php:120
+#: vendor/mythemeshop/wordpress-helpers/src/admin/class-page.php:124
+msgid "Variable Required"
+msgstr ""
+
+#: vendor/mythemeshop/wordpress-helpers/src/admin/class-page.php:124
+msgid "$title variable required"
+msgstr ""
